@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "final-project"
+version = "0.1.0"
+description = ""
+authors = ["You Guang <yokurang@gmail.com>"]
+readme = "README.md"
+packages = [{include = "final_project"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pygame = "^2.5.2"
+pytest = "^7.4.3"
+dijkstar = "^2.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
