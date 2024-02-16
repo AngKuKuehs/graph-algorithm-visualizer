@@ -2,7 +2,7 @@
 name = "final-project"
 version = "0.1.0"
 description = ""
-authors = ["You Guang <yokurang@gmail.com>"]
+authors = ["Bryan Ang", "Jingyi Hou"]
 readme = "README.md"
 packages = [{include = "final_project"}]
 
